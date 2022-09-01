@@ -4,7 +4,7 @@ title: 이펙티브 자바 톺아보기 - 아이템 1. 생성자 대신 정적 �
 date: '2022-09-01 00:23:22'
 author: mskangg
 tags: java
-categories: 시리즈
+categories: 이펙티브자바
 ---
 
 ![main](main.png)
