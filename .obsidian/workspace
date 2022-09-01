@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/effective-java-1/index.md",
+            "file": "content/effective-java-2/index.md",
             "mode": "source",
             "source": true
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/effective-java-1/index.md",
+            "file": "content/effective-java-2/index.md",
             "mode": "preview",
             "source": true
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/effective-java-1/index.md",
+                "file": "content/effective-java-2/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/effective-java-1/index.md",
+                "file": "content/effective-java-2/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/effective-java-1/index.md"
+                "file": "content/effective-java-2/index.md"
               }
             }
           },
@@ -162,6 +162,7 @@
   },
   "active": "149634767ef0eda8",
   "lastOpenFiles": [
+    "content/effective-java-1/index.md",
     "content/effective-java-1/flyweight-factory.png",
     "remind-interview/라인 1차.md",
     "remind-interview/현대 1차.md",
@@ -170,7 +171,6 @@
     "_posts/2022-08-14-effective-java-2.md",
     "_posts/2022-08-14-troubleshooting-builder-jackson-error.md",
     "_posts/2022-08-14-effective-java-1.md",
-    "assets/images/posts/effective-java/builder-director.png",
-    "assets/images/posts/effective-java/main.png"
+    "assets/images/posts/effective-java/builder-director.png"
   ]
 }
