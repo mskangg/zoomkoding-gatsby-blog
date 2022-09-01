@@ -699,6 +699,8 @@
 
 .markdown h2 {
   font-size: 1.5em;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid var(--post-card-border-color);
 }
 
 .markdown h3 {
