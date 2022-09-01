@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/effective-java-1/index.md",
+            "file": "content/effective-java/item-2/index.md",
             "mode": "source",
             "source": true
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/effective-java-1/index.md",
+            "file": "content/effective-java/item-2/index.md",
             "mode": "preview",
             "source": true
           }
@@ -75,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5,
-    "collapsed": true
+    "width": 375.5
   },
   "right": {
     "id": "60f7e6c8fa52d69c",
@@ -92,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/effective-java-1/index.md",
+                "file": "content/effective-java/item-2/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/effective-java-1/index.md",
+                "file": "content/effective-java/item-2/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/effective-java-1/index.md"
+                "file": "content/effective-java/item-2/index.md"
               }
             }
           },
@@ -160,17 +159,17 @@
     "width": 386.5,
     "collapsed": true
   },
-  "active": "149634767ef0eda8",
+  "active": "071273362a4e5a60",
   "lastOpenFiles": [
-    "content/effective-java-2/index.md",
+    "content/effective-java/item-1/index.md",
     "content/effective-java-1/index.md",
+    "content/effective-java-2/index.md",
     "content/effective-java-1/flyweight-factory.png",
     "remind-interview/라인 1차.md",
     "remind-interview/현대 1차.md",
     "DR/2022-08-16.md",
     "_posts/2022-08-14-effective-java-3.md",
     "_posts/2022-08-14-effective-java-2.md",
-    "_posts/2022-08-14-troubleshooting-builder-jackson-error.md",
-    "_posts/2022-08-14-effective-java-1.md"
+    "_posts/2022-08-14-troubleshooting-builder-jackson-error.md"
   ]
 }
