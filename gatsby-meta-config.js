@@ -14,7 +14,7 @@ module.exports = {
     name: `강민수`,
     bio: {
       role: `개발자`,
-      description: ['사람에 가치를 두는', '능동적으로 일하는', '이로운 것을 만드는'],
+      description: ['코드 품질을 중요시하는', '능동적으로 일하는'],
       thumbnail: 'thumbnail.gif', // Path to the image in the 'asset' folder
     },
     social: {
