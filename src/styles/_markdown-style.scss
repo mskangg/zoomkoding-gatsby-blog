@@ -818,6 +818,11 @@
   border-radius: 3px;
 }
 
+.markdown em {
+  font-style: italic;
+  padding-right: 3px;
+}
+
 .markdown pre {
   word-wrap: normal;
 }
