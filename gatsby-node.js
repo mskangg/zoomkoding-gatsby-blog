@@ -30,7 +30,7 @@ const createPostsPages = ({ createPage, results }) => {
   const { edges } = results.data.allMarkdownRemark;
 
   edges.forEach(({ node }) => {
-    const postCategories = node.frontmatter.categories.split(' ');
+    const postCategories = node.frontmatter.categories.split('_');
     postCategories.forEach((category) => categorySet.add(category));
   });
 

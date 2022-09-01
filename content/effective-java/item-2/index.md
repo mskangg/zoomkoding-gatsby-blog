@@ -4,10 +4,10 @@ title: 이펙티브 자바 톺아보기 - 아이템 2. 생성자에 매개변수
 date: '2022-09-02 00:12:02'
 author: mskangg
 tags: java
-categories: 이펙티브자바
+categories: 이펙티브 자바 톺아보기
 ---
 
-![main](../effective-java-1/main.png)
+![main](../item-1//main.png)
 
 ## 정적 팩토리와 생성자에 선택적 매개변수가 많을 때
 
