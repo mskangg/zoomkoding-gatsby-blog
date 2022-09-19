@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/effective-java/item-2/index.md",
+            "file": "content/woowahan-tech-camp-pro/index.md",
             "mode": "source",
             "source": true
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/effective-java/item-2/index.md",
+            "file": "content/woowahan-tech-camp-pro/index.md",
             "mode": "preview",
             "source": true
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/effective-java/item-2/index.md",
+                "file": "content/woowahan-tech-camp-pro/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/effective-java/item-2/index.md",
+                "file": "content/woowahan-tech-camp-pro/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/effective-java/item-2/index.md"
+                "file": "content/woowahan-tech-camp-pro/index.md"
               }
             }
           },
@@ -161,15 +161,15 @@
   },
   "active": "071273362a4e5a60",
   "lastOpenFiles": [
+    "content/woowahan-tech-camp-pro/2.png",
+    "content/woowahan-tech-camp-pro/1.jpeg",
+    "content/woowahan-tech-camp-pro/index.md",
     "content/effective-java/item-1/index.md",
-    "content/effective-java-1/index.md",
-    "content/effective-java-2/index.md",
-    "content/effective-java-1/flyweight-factory.png",
-    "remind-interview/라인 1차.md",
-    "remind-interview/현대 1차.md",
-    "DR/2022-08-16.md",
-    "_posts/2022-08-14-effective-java-3.md",
-    "_posts/2022-08-14-effective-java-2.md",
-    "_posts/2022-08-14-troubleshooting-builder-jackson-error.md"
+    "content/effective-java/item-2/index.md",
+    "content/gatsby-github-blog/github-blog-8.png",
+    "content/gatsby-github-blog/github-blog-7.png",
+    "content/gatsby-github-blog/github-blog-6.png",
+    "content/gatsby-github-blog/github-blog-5.png",
+    "content/gatsby-github-blog/github-blog-3.png"
   ]
 }
