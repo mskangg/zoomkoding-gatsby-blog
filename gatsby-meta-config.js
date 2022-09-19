@@ -1,5 +1,5 @@
 module.exports = {
-  title: `천천히 올바르게`,
+  title: `함께 자라기`,
   description: `민수의 개발일기`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://mskangg.netlify.app`,
@@ -14,7 +14,7 @@ module.exports = {
     name: `강민수`,
     bio: {
       role: `개발자`,
-      description: ['코드 품질을 중요시하는', '능동적으로 일하는'],
+      description: ['개선하기를 좋아하는', '코드리뷰를 좋아하는', '함께하기를 좋아하는'],
       thumbnail: 'thumbnail.gif', // Path to the image in the 'asset' folder
     },
     social: {
